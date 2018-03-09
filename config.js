@@ -1,5 +1,5 @@
 /** 更多样式 http://developer.baidu.com/map/custom/list.htm */
-var MAP_STYLE = "googlelite";
+var MAP_STYLE = "normal";
 
 var DATA = {
 	"四川省成都市" : {

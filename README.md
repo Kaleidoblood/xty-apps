@@ -1,4 +1,4 @@
-## 引用https://github.com/yuehaowang/irmap 制作
+## 通过 https://github.com/yuehaowang/irmap 制作
 
 ## 开源协议
 
